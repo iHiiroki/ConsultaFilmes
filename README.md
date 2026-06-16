@@ -1,5 +1,11 @@
 # ConsultaFilme — Versão com Permissão Android
 
+## Equipe
+
+- Ryan Toledo de Oliveira
+- Ricardo Gentil
+- Daniel Crispino
+
 ## Descrição
 
 App Android de consulta de filmes que consome a API pública OMDb. Esta versão evolui o miniapp anterior adicionando a funcionalidade de fotografar capas físicas de filmes diretamente pelo aplicativo, utilizando a permissão de câmera da plataforma Android.
@@ -58,9 +64,3 @@ O app **nunca quebra** ao ter a permissão negada.
 
 - Vá em **Configurações → Apps → ConsultaFilme → Permissões → Câmera → Negar**.
 - Abra o app novamente e clique em "Fotografar capa".
-
-## Equipe
-
-- Ryan Toledo de Oliveira
-- Ricardo Gentil
-- Daniel Crispino
